@@ -1,10 +1,4 @@
-# Yield Blizzard
-
-Automated yield farming strategies for Avalanche.
-
-*  [Web](https://yieldblizzard.com/)
-*  [Twitter](https://twitter.com/yieldblizzard_)
-*  [Telegram](https://t.me/yieldblizzard)
+# Automated yield farming strategies for Avalanche.
 
 # Getting Started
 
